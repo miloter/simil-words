@@ -1,0 +1,25 @@
+{
+  "name": "@miloter/simil-words",
+  "version": "1.0.0",
+  "main": "simil-words.js",
+  "description": "It allows to obtain the similarities of words and texts as well as the normalization of texts to different forms.",
+  "keywords": [
+    "similarity",
+    "normalize",
+    "texts",
+    "words"
+  ],
+  "author": "miloter",
+  "engines": {
+    "node": ">= 13.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloter/simil-words.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

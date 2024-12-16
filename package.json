@@ -1,6 +1,6 @@
 {
   "name": "@miloter/simil-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "simil-words.js",
   "description": "It allows to obtain the similarities of words and texts as well as the normalization of texts to different forms.",
   "keywords": [

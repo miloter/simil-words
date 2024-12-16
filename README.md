@@ -1,4 +1,4 @@
-# Lexical analyzer for texts in memory.
+# Similarity and normalization of texts.
 It allows to obtain the similarities of words and texts as well as the normalization of texts to different forms.
 
 ## Note:
